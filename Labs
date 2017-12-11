@@ -1,0 +1,59 @@
+Using Azure Machine Learning
+Ensure that you completed the lab by using the dataset, modules, and configuration settings specified in the lab document. 
+If you did not use the values prescribed in the lab document, you may obtain different model evaluation results from those expected below.
+
+Enter the number of True Positives predicted by the model:
+Answer : 127
+Enter the number of True Negatives predicted by the model:
+Answer : 94
+
+Module 2 Lab
+Computing Statistics
+Ensure that you completed the lab by using the dataset and code specified in the lab document. 
+If you did not use the steps prescribed in the lab document, you may obtain different results from those expected below.
+What is the median of the horsepower column?
+Answer : 95
+
+Module 3 Lab
+Running a Simulation
+In the lab, you ran a simulation for the lemonade stand with the expected number of customer arrivals per day 
+increased to 1200 and a standard deviation of 40.
+How many distinct peaks are visible in the histogram showing frequency distribution for total net per day?
+Answer : 5
+
+Hypothesis Testing
+You have found that you could not reject the null hypothesis 
+that there was no significant difference between the heights of mothers and their adult daughters. 
+But what about the difference in height between fathers and their adult daughters?
+Can you reject the null hypothesis that there is no significant difference in the heights of fathers and their adult daughters?
+Answer : Yes
+
+Module 4 Lab
+Plotting Adult Income
+Based on the conditioned box plots you created for the adult income classification dataset, 
+the median age of adults who earn $50K or less is...
+Answer : Lower than the median age of adults who earn more than $50K
+
+Module 5 Lab
+Cleaning Data
+How many rows were removed from the automobile data as a result of treating missing values and duplicate rows?
+Answer : 23
+
+Handling Outliers
+How many rows were removed as a result of removing outliers?
+Answer : 19
+
+Module 6 Lab
+Creating a Classification Model
+After completing the classification model and publishing it as a web service, 
+you tested the web service from Excel Online by predicting the income classification for a 39 year old never-married white male. 
+You then predicted an income classification for a married 39 year old white male with the same characteristics.
+Which of the following predictions were made by your model?
+Answer : The never-married subject earns $50K or less.
+         The subject would earn more if he were married.
+
+Creating a Regression Model
+In the lab, you created a regression model for automobile price predictions and tested it from Excel Online.
+Based on your model, a gas-fueled front-engined, front-wheel drive, 
+sedan with the specifications described in the lab is likely to...
+Answer : Cost more than the equivalent diesel model
